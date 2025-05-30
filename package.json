@@ -18,8 +18,8 @@
         "conversion"
     ],
     "dependencies": {
-        "underscore": "1.4.x",
-        "mime": "1.2.x"
+        "underscore": "1.13.x",
+        "mime": "4.0.x"
     },
     "license": "MIT"
 }
